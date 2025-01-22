@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Application Development**
 
-- 🌱 I’m currently learning **Kotlin, Java, Flutter etc.**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Mobile App Development**
 
