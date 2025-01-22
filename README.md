@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Java, Flutter etc.**
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Mobile App Development**
 
 - 📫 How to reach me **isratmina2@gmail.com**
 
